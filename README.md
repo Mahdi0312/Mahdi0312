@@ -23,7 +23,7 @@ Expertise in IoT, real-time control, and system integration | Passionate about s
 
 ## 🌱 Current Goals
 
-I am focused on advancing my expertise in **embedded systems** and **real-time applications**. Recently, I worked part-time with a Canadian company, enhancing my skills in mobile app development, remote system control, and embedded technologies. My goal is to integrate these skills with **artificial intelligence** to drive innovative projects in the future.
+I am focused on advancing my expertise in **embedded systems** and **real-time applications**. Recently, I worked full-time with a Canadian company, enhancing my skills in mobile app development, remote system control, and embedded technologies. My goal is to integrate these skills with **artificial intelligence** to drive innovative projects in the future.
 
 ---
 
