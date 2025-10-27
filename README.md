@@ -2,8 +2,8 @@
 
 ---
 
-🎓 **Electrical Engineer | Master’s Student in Applied Sciences**  
-Currently pursuing my Master’s in Applied Sciences at the University of Moncton, I bring a solid foundation in electrical engineering from the National School of Engineers of Tunis (ENSIT). My expertise blends hands-on skills in electronics, programming, and system integration, driven by a passion for innovation in embedded systems and real-time applications.
+🔧 **Electrical & Embedded Systems Engineer (M.A.Sc.)**
+Expertise in IoT, real-time control, and system integration | Passionate about smart, connected technologies.
 
 ---
 
